@@ -24,5 +24,8 @@ Data for the project was gathered using web automation tools to retrieve quotes 
 
 In order to produce the data in `quotes.csv`, `quote_scraper.py` uses [https://www.comparethemarket.com.au/car-insurance/journey/start](https://www.comparethemarket.com.au/car-insurance/journey/start) to retrieve a number of quotes for each combination of a person and a car.
 
+### Cleaning Data
+As can be seen in `cleaning_data.ipynb` i cleaned and cut the data down to the specific focus of the exercise: to examine the relationship between age, gender and comprehensive car insurance quote prices. The resulting dataframe is written out to `quotesByAgeGender.csv`.
+
 ## Disclaimer
 I am learning! Please take any findings from this project with a grain of salt. If you have any feedback for me or constructive criticisms of my work please, please reach out I'd love to hear them: ldavoli.mail@gmail.com
