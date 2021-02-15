@@ -1,5 +1,5 @@
 # Car Insurance Analysis
-A project for some practice with the data science workflow.
+A project for some practice with the data science workflow. [Please read the report of my findings!](https://github.com/lukedavoli/Car_Insurance_Analysis/blob/master/Report.md)
 
 ## Project Intro/Objective
 This analysis aims to provide a brief insight into the relationship of factors such as age and gender with car insurance quote prices. The analysis limits its scope to the individual applying for the quote and assumptions insurance companies may make about them based on these characteristics, rather than what car is being insured.
